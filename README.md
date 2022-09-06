@@ -23,6 +23,13 @@
 * <a href="https://www.php.net/manual/en/security.database.storage.php"> Encrypted Storage Model of  Database </a> 
 * <a href="https://www.php.net/manual/en/security.database.sql-injection.php"> SQL Injection  </a> 
 
+# config Database
+* <a href="https://www.php.net/manual/en/refs.database.php"> การเชื่อมต่อ Database  </a> 
+* <a href="https://www.php.net/manual/en/set.mysqlinfo.php"> การเชื่อมต่อ MySQL or MariaDB  </a> 
+* <a href="https://www.php.net/manual/en/book.sqlsrv.php"> การใช้ SQLSRV เชื่อมต่อ  Microsoft SQL Server Driver for PHP  </a> 
+
+
+
 
 
 
