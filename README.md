@@ -14,6 +14,7 @@
 * <a href="https://www.php.net/manual/en/language.operators.php"> การใช้ operators ในการดำเนินทางคณิตศาสตร์ พืชคณิต </a> 
 * <a href="https://www.php.net/manual/en/language.oop5.basic.php"> การสร้าง Classes and Objects  </a> 
 * <a href="https://www.php.net/manual/en/class.datetime.php"> DateTime Formmat </a> 
+* <a href="https://www.php.net/manual/en/session.examples.basic.php"> การใช้งาน Session </a>  
 
 # Security
 * <a href="https://www.php.net/manual/en/book.session.php"> Session Security </a> 
