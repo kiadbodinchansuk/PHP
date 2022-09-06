@@ -12,6 +12,19 @@
 * <a href="https://www.php.net/manual/en/language.constants.php"> การกำหนดค่าคงที่ Contants </a> 
 * <a href="https://www.php.net/manual/en/language.expressions.php"> การแสดงข้อมูลออกมา (Expression) เช่น การ echo ตัวแปร ข้อความ, การสร้างฟังก์ชัน Return ค่าออกมา </a> 
 * <a href="https://www.php.net/manual/en/language.operators.php"> การใช้ operators ในการดำเนินทางคณิตศาสตร์ พืชคณิต </a> 
+* <a href="https://www.php.net/manual/en/language.oop5.basic.php"> การสร้าง Classes and Objects  </a> 
+* <a href="https://www.php.net/manual/en/class.datetime.php"> DateTime Formmat </a> 
+
+# Security
+* <a href="https://www.php.net/manual/en/book.session.php"> Session Security </a> 
+* <a href="https://www.php.net/manual/en/security.filesystem.php"> Filesystem Security </a> 
+* <a href="https://www.php.net/manual/en/security.database.php"> Database Security </a> 
+* <a href="https://www.php.net/manual/en/security.database.storage.php"> Encrypted Storage Model of  Database </a> 
+* <a href="https://www.php.net/manual/en/security.database.sql-injection.php"> SQL Injection  </a> 
+
+
+
+
 
 
 
